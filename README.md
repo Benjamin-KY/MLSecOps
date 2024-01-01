@@ -23,10 +23,14 @@ This section is dedicated to profiling leading experts and influencers in the fi
 This section is dedicated to profiling leading experts and influencers in the field of MLSecOps. Here, you'll find information on key individuals who are making significant contributions to the intersection of machine learning and security operations.
 
 ## Expert Profiles
-### Expert Name 1
-- **Background**: Brief description of their background.
-- **Contributions**: Key contributions to the field.
-- **Links**: [Profile](link_to_profile), [Research](link_to_research)
+### Diana Kelley
+- **Background**: Diana Kelley is the Chief Information Security Officer (CISO) for Protect AI. She also serves on the boards of WiCyS, The Executive Women’s Forum (EWF), InfoSec World, CyberFuture Foundation, TechTarget Security Editorial, and DevNet AI/ML. Diana was Cybersecurity Field CTO for Microsoft, Global Executive Security Advisor at IBM Security, GM at Symantec, VP at Burton Group (now Gartner), a Manager at KPMG, CTO and co-founder of SecurityCurve, and Chief vCISO at SaltCybersecurity.
+
+Her extensive volunteer work has included serving on the ACM Ethics & Plagiarism Committee, Cybersecurity Committee Advisor at CompTIA, CTO and Board Member at Sightline Security, Advisory Board Chair at WOPLLI Technologies, Advisory Council member Bartlett College of Science and Mathematics, Bridgewater State University, and RSAC US Program Committee.
+
+She is a sought-after keynote speaker, the host of BrightTALK’s The (Security) Balancing Act, co-author of the books Practical Cybersecurity Architecture and Cryptographic Libraries for Developers, instructor for the LinkedIn Learning class on Security in AI and ML, has been a lecturer at Boston College's Masters program in cybersecurity, a 2023 Global Cyber Security Hall of Fame Inductee, the EWF 2020 Executive of the Year and EWF Conference Chair 2021-Present, an SCMedia Power Player, and one of Cybersecurity Ventures 100 Fascinating Females Fighting Cybercrime.
+- **Contributions**: True thought leader in the space. Industry focus but has written on MLSecOps and adjacent domains.
+- **Links**: [LinkedIn](https://www.linkedin.com/in/dianakelleysecuritycurve/), [Website](https://securitycurve.com/)
 
 ### Expert Name 2
 - **Background**: Brief description of their background.
