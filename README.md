@@ -45,14 +45,21 @@ OWASP Machine Learning Security Top 10 Project (https://github.com/OWASP/www-pro
 ## MLOps Repos on GitHub
 
 A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning (https://github.com/EthicalML/awesome-production-machine-learning)
+
 Microsoft AutoML toolkit (https://github.com/microsoft/nni)
+
 Streamlining Energy Consumption Forecasting using MLOps (https://github.com/Philippos01/mlops-energy-forecast-thesis)
+
 Free MLOps course from DataTalks.Club (https://github.com/DataTalksClub/mlops-zoomcamp/tree/main)
+
 Machine Learning Ops with GitHub (https://mlops.githubapp.com/)
+
 Microsoft MLOps (https://github.com/microsoft/MLOps)
+
 Learn how to design, develop, deploy and iterate on production-grade ML applications (https://github.com/GokuMohandas/mlops-course)
 
 ## ML General
 
 Machine Learning Systems Design (https://github.com/chiphuyen/machine-learning-systems-design)
+
 Label Studio is a multi-type data labeling and annotation tool with standardized output format (https://github.com/HumanSignal/label-studio)
