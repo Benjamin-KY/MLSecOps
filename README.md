@@ -18,10 +18,20 @@ We welcome contributions! Please read our Contributing Guide for details on our 
 
 I will note two labels/metrics before each link. The first is x/5 where x is the required knowledge about ML/AI in order for the content to be useful. x = 1 is the least required, x =5 is the most. The second label is Vendor-Agnostic or Vendor-Centric. Enjoy! 
 
-**3/5, Vendor-Centric (Google)** 
+**1/5, Vendor-Centric (TensorFlow)**
+- Basics of machine learning with TensorFlow (https://www.tensorflow.org/resources/learn-ml/basics-of-machine-learning)
+
+**1/5, Vendor-Centric (TensorFlow)**
+- Machine Learning Foundations (https://youtube.com/playlist?list=PLOU2XLYxmsII9mzQ-Xxug4l2o04JBrkLV&si=U67LkeKb4nMxzFWP)
+
+**2/5, Vendor-Centric (Google)**
+- Data science and machine learning on Cloud AI Platform (https://developers.google.com/learn/topics/datascience?hl=en)
+
+**2/5, Vendor-Centric (TensorFlow)** 
 - Machine Learning Crash Course with TensorFlow APIs (https://developers.google.com/machine-learning/crash-course/ml-intro)
 
-
+** 4/5, Vendor-Agnostic**
+- Neural Networks and Deep Learning (http://neuralnetworksanddeeplearning.com/about.html)
 
 ## MLSecOps Repos on GitHub
 
