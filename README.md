@@ -26,8 +26,10 @@ We welcome contributions! Please read our Contributing Guide for details on our 
 
 I will note two labels/metrics before each link. The first is x/5 where x is the required knowledge about ML/AI in order for the content to be useful. x = 1 is the least required, x =5 is the most. The second label is Vendor-Agnostic or Vendor-Centric. Enjoy! 
 
-**1/5, Vendor-Agnostic**
-- OpenML Guide - Threshold to the AI Multiverse (https://www.openmlguide.org/ai-portal-gun/ai-portal-gun/)
+| Difficulty Rating | Vendor-Agnostic or Vendor-Centric | Name of Course | Delivery Method | Link |
+| --- | --- | --- | --- | --- |
+
+| 1/5 | Vendor-Agnostic | OpenML Guide - Threshold to the AI Multiverse | Multi-modal | https://www.openmlguide.org/ai-portal-gun/ai-portal-gun/ |
 
 **1/5, Vendor-Centric (TensorFlow)**
 - Basics of machine learning with TensorFlow (https://www.tensorflow.org/resources/learn-ml/basics-of-machine-learning)
