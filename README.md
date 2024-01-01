@@ -14,6 +14,14 @@ We welcome contributions! Please read our Contributing Guide for details on our 
 
 **Project Link**: https://github.com/Benjamin-KY/MLSecOps
 
+## Courses to Learn ML, MLSecOps, AI Assurance, AI Ethics etc etc
+
+I will note two labels/metrics before each link. The first is x/5 where x is the required knowledge about ML/AI in order for the content to be useful. x = 1 is the least required, x =5 is the most. The second label is Vendor-Agnostic or Vendor-Centric. Enjoy! 
+
+3/5, Vendor-Centric (Google) Machine Learning Crash Course with TensorFlow APIs (https://developers.google.com/machine-learning/crash-course/ml-intro)
+
+
+
 ## MLSecOps Repos on GitHub
 
 OWASP Machine Learning Security Top 10 Project (https://github.com/OWASP/www-project-machine-learning-security-top-10)
