@@ -33,6 +33,9 @@ I will note two labels/metrics before each link. The first is x/5 where x is the
 ** 4/5, Vendor-Agnostic**
 - Neural Networks and Deep Learning (http://neuralnetworksanddeeplearning.com/about.html)
 
+** 4/5, Vendor-Centric (Intel)**
+- MLOps Professional Training Package (https://learning.intel.com/developer/pages/133/mlops-professional)
+
 ## MLSecOps Repos on GitHub
 
 OWASP Machine Learning Security Top 10 Project (https://github.com/OWASP/www-project-machine-learning-security-top-10)
