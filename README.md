@@ -1,4 +1,5 @@
 # MLSecOps
+![MLSecOps Banner](https://github.com/Benjamin-KY/MLSecOps/blob/main/MLSecOpsV1.png)
 
 ## Description
 Welcome to our MLSecOps project. This project focuses on integrating machine learning with security operations to enhance the security of machine learning operations (MLOps). Here, you'll find a mix of code, research papers, useful links, and resources dedicated to MLSecOps.
