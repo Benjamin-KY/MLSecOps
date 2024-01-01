@@ -28,7 +28,6 @@ I will note two labels/metrics before each link. The first is x/5 where x is the
 
 | Difficulty Rating | Vendor-Agnostic or Vendor-Centric | Name of Course | Delivery Method | Link |
 | --- | --- | --- | --- | --- |
-
 | 1/5 | Vendor-Agnostic | OpenML Guide - Threshold to the AI Multiverse | Multi-modal | https://www.openmlguide.org/ai-portal-gun/ai-portal-gun/ |
 
 **1/5, Vendor-Centric (TensorFlow)**
