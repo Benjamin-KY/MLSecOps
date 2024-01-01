@@ -18,7 +18,8 @@ We welcome contributions! Please read our Contributing Guide for details on our 
 
 I will note two labels/metrics before each link. The first is x/5 where x is the required knowledge about ML/AI in order for the content to be useful. x = 1 is the least required, x =5 is the most. The second label is Vendor-Agnostic or Vendor-Centric. Enjoy! 
 
-3/5, Vendor-Centric (Google) Machine Learning Crash Course with TensorFlow APIs (https://developers.google.com/machine-learning/crash-course/ml-intro)
+**3/5, Vendor-Centric (Google)** 
+- Machine Learning Crash Course with TensorFlow APIs (https://developers.google.com/machine-learning/crash-course/ml-intro)
 
 
 
