@@ -17,9 +17,9 @@ We welcome contributions! Please read our Contributing Guide for details on our 
 ## AI, ML and MLSecOps centric groups and organisations
 | Group/Org | Link |
 | --- | --- |
-| DEFCON AI Village | (https://aivillage.org/) |
-| ML Commons | (https://mlcommons.org/) |
-| Turing Institute | (Insert Link) |
+| DEFCON AI Village | https://aivillage.org/ |
+| ML Commons | https://mlcommons.org/ |
+| Turing Institute | Insert Link |
 
 
 ## Courses to Learn ML, MLSecOps, AI Assurance, AI Ethics etc etc
