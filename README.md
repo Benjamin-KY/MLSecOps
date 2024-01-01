@@ -14,9 +14,17 @@ We welcome contributions! Please read our Contributing Guide for details on our 
 
 **Project Link**: https://github.com/Benjamin-KY/MLSecOps
 
+## AI, ML and MLSecOps centric groups and organisations
+
+- DEFCON AI Village (https://aivillage.org/)
+- ML Commons (https://mlcommons.org/)
+
 ## Courses to Learn ML, MLSecOps, AI Assurance, AI Ethics etc etc
 
 I will note two labels/metrics before each link. The first is x/5 where x is the required knowledge about ML/AI in order for the content to be useful. x = 1 is the least required, x =5 is the most. The second label is Vendor-Agnostic or Vendor-Centric. Enjoy! 
+
+**1/5, Vendor-Agnostic**
+- OpenML Guide - Threshold to the AI Multiverse (https://www.openmlguide.org/ai-portal-gun/ai-portal-gun/)
 
 **1/5, Vendor-Centric (TensorFlow)**
 - Basics of machine learning with TensorFlow (https://www.tensorflow.org/resources/learn-ml/basics-of-machine-learning)
@@ -39,6 +47,8 @@ I will note two labels/metrics before each link. The first is x/5 where x is the
 ## MLSecOps Repos on GitHub
 
 OWASP Machine Learning Security Top 10 Project (https://github.com/OWASP/www-project-machine-learning-security-top-10)
+
+MLSecOps Reference Repository (https://github.com/disesdi/mlsecops_references)
 
 ## MLOps Repos on GitHub
 
