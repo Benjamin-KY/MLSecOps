@@ -30,10 +30,10 @@ I will note two labels/metrics before each link. The first is x/5 where x is the
 **2/5, Vendor-Centric (TensorFlow)** 
 - Machine Learning Crash Course with TensorFlow APIs (https://developers.google.com/machine-learning/crash-course/ml-intro)
 
-** 4/5, Vendor-Agnostic**
+**4/5, Vendor-Agnostic**
 - Neural Networks and Deep Learning (http://neuralnetworksanddeeplearning.com/about.html)
 
-** 4/5, Vendor-Centric (Intel)**
+**4/5, Vendor-Centric (Intel)**
 - MLOps Professional Training Package (https://learning.intel.com/developer/pages/133/mlops-professional)
 
 ## MLSecOps Repos on GitHub
