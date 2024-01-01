@@ -1,4 +1,4 @@
-[![Commitment Issues](https://img.shields.io/badge/Commitment-Issues-Issues)](https://github.com/Benjamin-KY/MLSecOps)
+[![Commitment Issues](https://img.shields.io/badge/Commitment-Issues-Issues)](https://github.com/Benjamin-KY/MLSecOps) [![We Keep it Updated](https://img.shields.io/github/commit-activity/w/Benjamin-KY/MLSecOps)](https://github.com/Benjamin-KY/MLSecOps/graphs/commit-activity)
 
 # Machine Learning Security Operations aka MLSecOps
 ![MLSecOps Banner](https://github.com/Benjamin-KY/MLSecOps/blob/main/MLSecOpsV1.png)
