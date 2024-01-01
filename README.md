@@ -14,32 +14,6 @@ We welcome contributions! Please read our Contributing Guide for details on our 
 
 **Project Link**: https://github.com/Benjamin-KY/MLSecOps
 
-## People of Note
-
-This section is dedicated to profiling leading experts and influencers in the field of MLSecOps. Here, you'll find information on key individuals who are making significant contributions to the intersection of machine learning and security operations.
-
-![Experts of Interest](https://github.com/Benjamin-KY/MLSecOps/blob/main/ExpertsV1.png)
-
-This section is dedicated to profiling leading experts and influencers in the field of MLSecOps. Here, you'll find information on key individuals who are making significant contributions to the intersection of machine learning and security operations.
-
-## Expert Profiles
-### Diana Kelley
-- **Background**: Diana Kelley is the Chief Information Security Officer (CISO) for Protect AI. She also serves on the boards of WiCyS, The Executive Women’s Forum (EWF), InfoSec World, CyberFuture Foundation, TechTarget Security Editorial, and DevNet AI/ML. Diana was Cybersecurity Field CTO for Microsoft, Global Executive Security Advisor at IBM Security, GM at Symantec, VP at Burton Group (now Gartner), a Manager at KPMG, CTO and co-founder of SecurityCurve, and Chief vCISO at SaltCybersecurity.
-- **Contributions**: True thought leader in the space. Industry focus but has written on MLSecOps and adjacent domains.
-- **Links**: [LinkedIn](https://www.linkedin.com/in/dianakelleysecuritycurve/), [Website](https://securitycurve.com/)
-
-### Expert Name 2
-- **Background**: Brief description of their background.
-- **Contributions**: Key contributions to the field.
-- **Links**: [Profile](link_to_profile), [Research](link_to_research)
-
-<!-- Repeat for more experts as needed -->
-
-## Additional Resources
-- [Conference Talks](link_to_conference_talks)
-- [Relevant Publications](link_to_publications)
-
-
 ## MLSecOps Repos on GitHub
 
 OWASP Machine Learning Security Top 10 Project (https://github.com/OWASP/www-project-machine-learning-security-top-10)
@@ -65,3 +39,28 @@ Learn how to design, develop, deploy and iterate on production-grade ML applicat
 Machine Learning Systems Design (https://github.com/chiphuyen/machine-learning-systems-design)
 
 Label Studio is a multi-type data labeling and annotation tool with standardized output format (https://github.com/HumanSignal/label-studio)
+
+## People of Note
+
+This section is dedicated to profiling leading experts and influencers in the field of MLSecOps. Here, you'll find information on key individuals who are making significant contributions to the intersection of machine learning and security operations.
+
+![Experts of Interest](https://github.com/Benjamin-KY/MLSecOps/blob/main/ExpertsV1.png)
+
+This section is dedicated to profiling leading experts and influencers in the field of MLSecOps. Here, you'll find information on key individuals who are making significant contributions to the intersection of machine learning and security operations.
+
+## Expert Profiles
+### Diana Kelley
+- **Background**: Diana Kelley is the Chief Information Security Officer (CISO) for Protect AI. She also serves on the boards of WiCyS, The Executive Women’s Forum (EWF), InfoSec World, CyberFuture Foundation, TechTarget Security Editorial, and DevNet AI/ML. Diana was Cybersecurity Field CTO for Microsoft, Global Executive Security Advisor at IBM Security, GM at Symantec, VP at Burton Group (now Gartner), a Manager at KPMG, CTO and co-founder of SecurityCurve, and Chief vCISO at SaltCybersecurity.
+- **Contributions**: True thought leader in the space. Industry focus but has written on MLSecOps and adjacent domains.
+- **Links**: [LinkedIn](https://www.linkedin.com/in/dianakelleysecuritycurve/), [Website](https://securitycurve.com/)
+
+### Expert Name 2
+- **Background**: Brief description of their background.
+- **Contributions**: Key contributions to the field.
+- **Links**: [Profile](link_to_profile), [Research](link_to_research)
+
+<!-- Repeat for more experts as needed -->
+
+## Additional Resources
+- [Conference Talks](link_to_conference_talks)
+- [Relevant Publications](link_to_publications)
