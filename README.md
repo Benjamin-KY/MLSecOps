@@ -10,7 +10,9 @@ We welcome contributions! Please read our Contributing Guide for details on our 
 ## Contact Information
 **Project Lead**: @Benjamin-KY
 
-**Project Link**: https://github.com/Benjamin-KY/MLSecOps 
+**Project Link**: https://github.com/Benjamin-KY/MLSecOps
+
+## People of Note
 
 This section is dedicated to profiling leading experts and influencers in the field of MLSecOps. Here, you'll find information on key individuals who are making significant contributions to the intersection of machine learning and security operations.
 
