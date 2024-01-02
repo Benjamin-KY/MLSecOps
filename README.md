@@ -29,34 +29,25 @@ I will note two labels/metrics before each link. The first is x/5 where x is the
 | Difficulty Rating | Vendor-Agnostic or Vendor-Centric | Name of Course | Delivery Method | Link |
 | --- | --- | --- | --- | --- |
 | 1/5 | Vendor-Agnostic | OpenML Guide - Threshold to the AI Multiverse | Multi-modal | https://www.openmlguide.org/ai-portal-gun/ai-portal-gun/ |
-
-**1/5, Vendor-Centric (TensorFlow)**
-- Basics of machine learning with TensorFlow (https://www.tensorflow.org/resources/learn-ml/basics-of-machine-learning)
-
-**1/5, Vendor-Centric (TensorFlow)**
-- Machine Learning Foundations (https://youtube.com/playlist?list=PLOU2XLYxmsII9mzQ-Xxug4l2o04JBrkLV&si=U67LkeKb4nMxzFWP)
-
-**2/5, Vendor-Centric (Google)**
-- Data science and machine learning on Cloud AI Platform (https://developers.google.com/learn/topics/datascience?hl=en)
-
-**2/5, Vendor-Centric (TensorFlow)** 
-- Machine Learning Crash Course with TensorFlow APIs (https://developers.google.com/machine-learning/crash-course/ml-intro)
-
-**4/5, Vendor-Agnostic**
-- Neural Networks and Deep Learning (http://neuralnetworksanddeeplearning.com/about.html)
-
-**4/5, Vendor-Centric (Intel)**
-- MLOps Professional Training Package (https://learning.intel.com/developer/pages/133/mlops-professional)
+| 1/5 | Vendor-Centric (TensorFlow) | Basics of machine learning with TensorFlow | Multi-modal | https://www.tensorflow.org/resources/learn-ml/basics-of-machine-learning |
+| 1/5 | Vendor-Centric (TensorFlow) | Machine Learning Foundations | Videos | https://youtube.com/playlist?list=PLOU2XLYxmsII9mzQ-Xxug4l2o04JBrkLV&si=U67LkeKb4nMxzFWP |
+| 2/5 | Vendor-Centric (Google) | Data science and machine learning on Cloud AI Platform | Multi-modal | https://developers.google.com/learn/topics/datascience?hl=en |
+| 2/5 | Vendor-Centric (TensorFlow) | Machine Learning Crash Course with TensorFlow APIs | Multi-modal | https://developers.google.com/machine-learning/crash-course/ml-intro |
+| 4/5 | Vendor-Agnostic | Neural Networks and Deep Learning | Multi-modal | http://neuralnetworksanddeeplearning.com/about.html |
+| 4/5 | Vendor-Centric (Intel) | MLOps Professional Training Package | Multi-modal | https://learning.intel.com/developer/pages/133/mlops-professional |
 
 ## MLSecOps Repos on GitHub
 
-OWASP Machine Learning Security Top 10 Project (https://github.com/OWASP/www-project-machine-learning-security-top-10)
-
-MLSecOps Reference Repository (https://github.com/disesdi/mlsecops_references)
+| Repo | Link |
+| --- | --- |
+| OWASP Machine Learning Security Top 10 Project | https://github.com/OWASP/www-project-machine-learning-security-top-10 |
+| MLSecOps Reference Repository | https://github.com/disesdi/mlsecops_references |
 
 ## MLOps Repos on GitHub
 
-A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning (https://github.com/EthicalML/awesome-production-machine-learning)
+| Repo | Link |
+| --- | --- |
+| A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning | https://github.com/EthicalML/awesome-production-machine-learning |
 
 Microsoft AutoML toolkit (https://github.com/microsoft/nni)
 
