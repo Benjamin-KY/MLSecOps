@@ -24,7 +24,7 @@ We welcome contributions! Please read our Contributing Guide for details on our 
 
 ## Courses to Learn ML, MLSecOps, AI Assurance, AI Ethics etc etc
 
-I will note two labels/metrics before each link. The first is x/5 where x is the required knowledge about ML/AI in order for the content to be useful. x = 1 is the least required, x =5 is the most. The second label is Vendor-Agnostic or Vendor-Centric. Enjoy! 
+I will note two labels/metrics before each course name and link. The first is x/5 where x is the required knowledge about ML/AI in order for the content to be useful. x = 1 is the least required, x =5 is the most. The second label is Vendor-Agnostic or Vendor-Centric. Enjoy! 
 
 | Difficulty Rating | Vendor-Agnostic or Vendor-Centric | Name of Course | Delivery Method | Link |
 | --- | --- | --- | --- | --- |
@@ -48,28 +48,21 @@ I will note two labels/metrics before each link. The first is x/5 where x is the
 | Repo | Link |
 | --- | --- |
 | A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning | https://github.com/EthicalML/awesome-production-machine-learning |
-
-Microsoft AutoML toolkit (https://github.com/microsoft/nni)
-
-Streamlining Energy Consumption Forecasting using MLOps (https://github.com/Philippos01/mlops-energy-forecast-thesis)
-
-Free MLOps course from DataTalks.Club (https://github.com/DataTalksClub/mlops-zoomcamp/tree/main)
-
-Machine Learning Ops with GitHub (https://mlops.githubapp.com/)
-
-Microsoft MLOps (https://github.com/microsoft/MLOps)
-
-Learn how to design, develop, deploy and iterate on production-grade ML applications (https://github.com/GokuMohandas/mlops-course)
+| Microsoft AutoML toolkit | https://github.com/microsoft/nni |
+| Streamlining Energy Consumption Forecasting using MLOps | https://github.com/Philippos01/mlops-energy-forecast-thesis |
+| Free MLOps course from DataTalks.Club | https://github.com/DataTalksClub/mlops-zoomcamp/tree/main |
+| Machine Learning Ops with GitHub | https://mlops.githubapp.com/ |
+| Microsoft MLOps | https://github.com/microsoft/MLOps |
+| Learn how to design, develop, deploy and iterate on production-grade ML applications | https://github.com/GokuMohandas/mlops-course |
 
 ## ML General
 
-Machine Learning Systems Design (https://github.com/chiphuyen/machine-learning-systems-design)
-
-Label Studio is a multi-type data labeling and annotation tool with standardized output format (https://github.com/HumanSignal/label-studio)
+| Repo | Link |
+| --- | --- |
+| Machine Learning Systems Design | https://github.com/chiphuyen/machine-learning-systems-design |
+| Label Studio is a multi-type data labeling and annotation tool with standardized output format | https://github.com/HumanSignal/label-studio |
 
 ## People of Note
-
-This section is dedicated to profiling leading experts and influencers in the field of MLSecOps. Here, you'll find information on key individuals who are making significant contributions to the intersection of machine learning and security operations.
 
 ![Experts of Interest](https://github.com/Benjamin-KY/MLSecOps/blob/main/ExpertsV1.png)
 
