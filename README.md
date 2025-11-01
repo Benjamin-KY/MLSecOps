@@ -14,7 +14,7 @@ This repository serves as a comprehensive resource for integrating machine learn
 1. [Introduction](#introduction)
 2. [Major 2024-2025 Developments](#major-2024-2025-developments)
 3. [Frameworks and Standards](#frameworks-and-standards)
-4. [Organizations and Community](#organizations-and-community)
+4. [Organisations and Community](#organisations-and-community)
 5. [Security Tools by Category](#security-tools-by-category)
 6. [Agentic AI Security](#agentic-ai-security)
 7. [Training and Education](#training-and-education)
@@ -140,7 +140,7 @@ Reference architecture for secure MLOps with visual lifecycle mapping.
 - OpenSSF AI/ML Security Working Group: [https://github.com/ossf/ai-ml-security](https://github.com/ossf/ai-ml-security)
 
 #### Databricks AI Security Framework (DASF)
-*Version 1.0*
+*Version 2.0*
 
 Comprehensive framework with 55 risks and 53 controls mapped to regulations.
 
@@ -202,7 +202,7 @@ Risk-based regulatory framework for AI systems.
 
 ---
 
-## Organizations and Community
+## Organisations and Community
 
 ### MLSecOps Communities
 
