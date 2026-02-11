@@ -568,6 +568,20 @@ Comprehensive ML observability with open-source Phoenix project.
 - Website: [https://arize.com/](https://arize.com/)
 - Phoenix (Open-Source): [https://github.com/Arize-ai/phoenix](https://github.com/Arize-ai/phoenix)
 
+#### Opik
+*Maturity: Production-ready | License: Apache-2.0*
+
+Open-source platform for LLM observability, evaluations, and prompt optimization.
+
+**Features:**
+- End-to-end LLM tracing
+- Prompt and experiment evaluation
+- Prompt optimization workflows
+
+**Resources:**
+- Website: [https://www.comet.com/docs/opik/](https://www.comet.com/docs/opik/)
+- GitHub: [https://github.com/comet-ml/opik](https://github.com/comet-ml/opik)
+
 #### Fiddler AI
 *Funding: $64.1M total (Series C $18.6M September 2024)*
 
