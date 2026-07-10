@@ -354,6 +354,7 @@ Open-source reasoning models for safety filtering.
 - **Rebuff** (Protect AI): Prompt injection detector
 - **Azure OpenAI Content Filter**: Microsoft's filtering service
 - **Fiddler Guardrails**: Native NeMo integration (March 2025)
+- **DarkMoon Privacy Gateway** (open-source, GPL-3.0): Self-hosted proxy that replaces sensitive values with deterministic reversible placeholders before prompts reach the LLM and restores them in the response, with an anti-exfiltration command gateway
 - **Lasso Security CBAC**: Context-based access control
 
 ### Category 2: Red Teaming and Vulnerability Scanning
