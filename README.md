@@ -737,6 +737,7 @@ See dedicated [Agentic AI Security](#agentic-ai-security) section below for comp
 - **ottosulin/awesome-ai-security**: [https://github.com/ottosulin/awesome-ai-security](https://github.com/ottosulin/awesome-ai-security)
 - **noobpk/MLSecOps-DevSecOps-Awesome**: [https://github.com/noobpk/MLSecOps-DevSecOps-Awesome](https://github.com/noobpk/MLSecOps-DevSecOps-Awesome)
 - **EthicalML/fml-security**: [https://github.com/EthicalML/fml-security](https://github.com/EthicalML/fml-security)
+- **Orca AI Incident Archive**: [https://github.com/Continuum-AI-Corp/Orca-AI-Incident-Archive](https://github.com/Continuum-AI-Corp/Orca-AI-Incident-Archive)
 
 ---
 
